@@ -5,7 +5,7 @@
 </div>
 
 <div>
-![doc-bot](https://github.com/shashnkvats/doc-bot/blob/main/doc-bot.png?raw=true)
+![doc-bot](doc-bot.png)
 </div>
 
 
