@@ -4,6 +4,8 @@
 <p>Doc-Bot is an interactive document chatbot built using the <b>Streamlit</b> framework and the <b>OpenAI</b> API. Its main purpose is to help users understand their documents by summarizing them and allowing them to ask questions about their content. </p>
 </div>
 
+![Screenshot](doc-bot.png)
+
 
 ### Installation
 
@@ -14,7 +16,10 @@ To run Doc-Bot, you need to have Python 3 installed on your machine, as well as 
 * <b>streamlit_chat</b>
 * <b>llama_index</b>
 <p>You can install these packages using the following command:</p>
- `pip install -r requirements.txt`
+
+```
+ pip install -r requirements.txt
+```
 
 </div>
 
