@@ -5,8 +5,11 @@
 </div>
 
 <div>
-![doc-bot]([doc-bot.png](https://github.com/shashnkvats/doc-bot/blob/27b79e9b9bb5e9161c11365c827be121b91f9cfb/doc-bot.png))
-</div>
+
+<img src="[https://your-image-url.type](https://github.com/shashnkvats/doc-bot/blob/main/doc-bot.png)" height="200rm" align="center">
+</div
+
+
 
 
 ### Installation
